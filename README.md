@@ -1,21 +1,22 @@
 
-# Arch-Silence GRUB2 theme
+# Arch-Nord theme for the GRUB 2 boot loader
 
-My flat GRUB2 theme.
+A GRUB 2 theme for Arch Linux based on the arctic, north-bluish Nord color palette.
 
-<img src="./preview.png" width="400">
+https://www.nordtheme.com/docs/colors-and-palettes
 
-## Font
-
-The font in the boot menu can't be changed because of GRUB.
-
-GRUB does have a conversion tool from ttf to it's own format but this format encodes each pixel with 1 bit
-which makes it completely useless since there's practically no font that is readable in such a low bit-depth.
-
-## License
-
-If not explicitly stated otherwise all the files in this project are distributed under the [GNU General Public License](./COPYING).
+<img src="./preview.png" width="800">
 
 ## Author
 
-Filippo Ghibellini
+Jürg Lempen
+
+## Forked from
+
+The Arch-Silence theme by Filippo Ghibellini
+
+https://github.com/fghibellini/arch-silence
+
+## License
+
+If not explicitly stated otherwise, all the files in this project are distributed under the [GNU General Public License](./COPYING).
